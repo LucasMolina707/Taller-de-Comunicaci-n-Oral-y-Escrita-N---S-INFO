@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis Académico - Comunicación Humana</title>
+
+    <style>
+        :root {
+            --primary-blue: #0d47a1;
+            --bg-gray: #f4f6f9;
+            --white: #ffffff;
+            --text-dark: #222222;
+            --shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            background: var(--bg-gray);
+            color: var(--text-dark);
+            line-height: 1.8;
+        }
+
+        header {
+            background: var(--primary-blue);
+            color: var(--white);
+            padding: 50px 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+        }
+
+        header p {
+            margin-top: 10px;
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        section {
+            padding: 40px 20px;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        .container {
+            background: var(--white);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            margin-bottom: 35px;
+        }
+
+        h2 {
+            color: var(--primary-blue);
+            border-left: 5px solid var(--primary-blue);
+            padding-left: 15px;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+        }
+
+        h3 {
+            color: #1565c0;
+            margin-top: 25px;
+        }
+
+        /* CONTENEDOR DEL MAPA */
+        .map-container {
+            width: 100%;
+            height: 700px;
+            border: 2px solid #e0e0e0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--white);
+            margin: 20px 0;
+        }
+
+        /* IFRAME DEL MAPA */
+        .mapamental {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background: var(--primary-blue);
+            color: var(--white);
+            text-align: center;
+            padding: 30px;
+            font-size: 0.9rem;
+            margin-top: 50px;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            section { padding: 20px 10px; }
+            .container { padding: 25px; }
+            .map-container { height: 500px; }
+            header h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>LA COMUNICACIÓN HUMANA</h1>
+    <p>Sustento Teórico y Visualización Sistémica</p>
+</header>
+
+<section>
+
+    <div class="container">
+        <h2>Introducción</h2>
+        <p>
+            La comunicación ha evolucionado de una herramienta esencial para la supervivencia a ser el objeto de estudio científico más denso de la modernidad. No se limita a una sola teoría, sino que se nutre de un enfoque interdisciplinario que permite a los seres humanos construir realidades compartidas en contextos sociales y tecnológicos.
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>Resumen Humanizado: "Más que solo datos"</h2>
+        <p>
+            Imagina que la comunicación no es un simple flujo de datos, sino un hilo invisible que teje nuestra realidad. El estudio de este fenómeno nos revela capas profundas de poder y psicología; nos enseña que al hablar, no solo enviamos mensajes, sino que transformamos el mundo. Para un ingeniero, cada bit de información arrastra consigo una intención humana y un impacto social ineludible.
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>Mapa Mental Interactivo</h2>
+
+        <!-- IMPORTANTE: el archivo markmap.html debe estar en la misma carpeta -->
+        <div class="map-container">
+            <iframe 
+                src="markmap.html"
+                class="mapamental"
+                title="Mapa Mental Comunicación Humana"
+                loading="lazy"
+                referrerpolicy="no-referrer">
+            </iframe>
+        </div>
+
+    </div>
+
+    <div class="container">
+        <h2>Guía de Referencias por Página</h2>
+        
+        <h3>1. Definición y Naturaleza</h3>
+        <p><strong>Página 7:</strong> Definición de la comunicación como un objeto poliédrico y un proceso histórico-simbólico.</p>
+
+        <h3>2. Estructura del Proceso</h3>
+        <p><strong>Páginas 9-10:</strong> Análisis de los elementos básicos: Emisor, Mensaje, Código, Canal y Receptor.</p>
+        <p><strong>Página 11:</strong> La relevancia crítica de la situación y el entorno (Contexto).</p>
+
+        <h3>3. Marcos Epistemológicos</h3>
+        <p><strong>Páginas 14-15:</strong> El Paradigma Positivista enfocado en la medición y leyes generales.</p>
+        <p><strong>Páginas 16-17:</strong> El Paradigma Interpretativo centrado en la cualidad y el sentido social.</p>
+    </div>
+
+    <div class="container">
+        <h2>Conclusiones Académicas</h2>
+        <ul>
+            <li>La comunicación es indisociable del soporte tecnológico y los protocolos de transmisión.</li>
+            <li>Entender la comunicación permite descifrar las estructuras de poder y control social.</li>
+            <li>La ética del investigador y del profesional es clave para una interpretación objetiva de los fenómenos sociales.</li>
+        </ul>
+    </div>
+
+</section>
+
+<footer>
+    <strong>IngLucas</strong> | Ingeniería Informática - 2026<br>
+    Taller de Comunicación Oral y Escrita
+</footer>
+
+</body>
+</html>
