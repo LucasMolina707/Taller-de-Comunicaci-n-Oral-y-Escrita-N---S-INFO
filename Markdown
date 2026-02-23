@@ -1,0 +1,96 @@
+---
+title: Teorías de la Comunicación - Sustentación Académica
+markmap:
+  colorFreezeLevel: 2
+  maxWidth: 300
+---
+
+# LA COMUNICACIÓN HUMANA
+## Definición Central
+- Proceso histórico, simbólico e interactivo que produce y transforma la realidad social. **(Pág. 7, párr. 2)**
+- Objeto de estudio complejo, polifacético y multidisciplinar. **(Pág. 7, párr. 1; Pág. 8, párr. 3)**
+- <img src="https://comunicacion.inglucas.com.co/data/1.png" width="100" />
+
+
+
+## 1. Elementos del Proceso Comunicativo
+### Emisor
+- Agente (individual o grupal) que inicia el proceso y decide el "qué" y "cómo". **(Pág. 9, párr. 5)**
+- <img src="https://comunicacion.inglucas.com.co/data/2.png" width="80" />
+
+
+### Mensaje
+- Contenido, ideas o unidades de sentido que se pretenden transmitir. **(Pág. 9, párr. 6)**
+
+### Código
+- Forma dada al contenido (lenguaje verbal o visual); interrelacionado con la tecnología. **(Pág. 10, párr. 1)**
+
+### Canal
+- Medio físico o soporte tecnológico por donde viaja el mensaje. **(Pág. 10, párr. 2)**
+- <img src="https://comunicacion.inglucas.com.co/data/3.png" width="80" />
+
+
+### Receptor
+- Destinatario (persona, grupo o sociedad) que recibe y decodifica el mensaje. **(Pág. 10, párr. 3)**
+
+### Contexto / Situación
+- Entorno social e inmediato que condiciona el significado del mensaje. **(Pág. 11, párr. 2)**
+
+### Idea Imaginaria (Ingeniería Informática)
+- **Arquitectura de Redes y Protocolos**
+- Los protocolos (TCP/IP) actúan como el código y reglas de contexto para asegurar la integridad de los datos.
+- <img src="https://comunicacion.inglucas.com.co/data/4.png" width="150" />
+
+
+[Image of the OSI model layers]]
+
+
+## 2. Estudio Científico y Epistemología
+### Paradigma Positivista (Cuantitativo)
+- Busca objetividad, leyes predictivas y usa el método científico tradicional. **(Pág. 14, párr. 4)**
+- **Técnicas:** Encuestas, experimentos y análisis de contenido. **(Pág. 15, párr. 2)**
+
+### Paradigma Interpretativo (Cualitativo)
+- Busca comprender el sentido y los discursos en su entorno natural. **(Pág. 16, párr. 1)**
+- **Técnicas:** Entrevistas en profundidad y observación participante. **(Pág. 17, párr. 1)**
+- <img src="https://comunicacion.inglucas.com.co/data/5.png" width="100" />
+
+### Pluralismo Metodológico
+- Combinación de técnicas para abordar la complejidad global. **(Pág. 18, párr. 3)**
+
+### Idea Imaginaria (Ingeniería Informática)
+- **Big Data vs. UX (Experiencia de Usuario)**
+- Cuantitativo (Positivismo) para métricas masivas vs. Cualitativo (Interpretativo) para satisfacción del usuario.
+
+## 3. Perspectivas Teóricas Clásicas
+### Perspectiva Funcionalista
+- **Modelo de Lasswell:** ¿Quién dice qué, en qué canal, a quién y con qué efecto? **(Pág. 21, párr. 3)**
+- **Modelo de Berlo:** Enfoque en habilidades conductuales y sistema social (SMCR). **(Pág. 24, párr. 2)**
+- <img src="https://comunicacion.inglucas.com.co/data/6.png" width="150" />
+
+### Modelo Matemático (Shannon y Weaver)
+- Centrado en la eficacia de la transmisión técnica y el ruido en el canal. **(Pág. 23, párr. 1)**
+
+
+### Idea Imaginaria (Ingeniería Informática)
+- **Ciberseguridad y Control**
+- La gestión de integridad evita el "ruido" o alteración del mensaje por atacantes (Pág. 23).
+
+## 4. Retos y Dimensiones Críticas
+### Poder y Control Social
+- La comunicación inscrita en relaciones de poder que condicionan los mensajes. **(Pág. 28, párr. 1)**
+
+### Interdisciplinariedad
+- Aportes necesarios de física, psicología, sociología y lingüística. **(Pág. 8, párr. 2)**
+
+### Responsabilidad Ética
+- El investigador reconoce que su "mirada" e ideología influyen en los resultados. **(Pág. 19, párr. 2)**
+
+### Idea Imaginaria (Ingeniería Informática)
+- **Algoritmos y Sesgos**
+- La ideología del programador afecta la "mirada" del algoritmo, requiriendo ética en IA (Pág. 19).
+- <img src="https://comunicacion.inglucas.com.co/data/7.png" width="100" />
+
+
+## Firma
+- **IngLucas**
